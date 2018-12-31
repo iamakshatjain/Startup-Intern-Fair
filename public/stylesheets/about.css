@@ -93,3 +93,16 @@ footer{
 	font-size: 16px;
 	letter-spacing: 0.15px;
 }
+
+.vertical-space{
+	height: 25px;
+}
+
+img{
+	width: 100%;
+}
+
+.event-image{
+	width: 50%;
+	margin: auto;
+}
