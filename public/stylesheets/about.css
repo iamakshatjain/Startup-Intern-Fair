@@ -15,7 +15,6 @@
 
 .sif:hover{
 	text-decoration: none;
-	color:;
 }
 
 /*Typography*/
@@ -24,15 +23,15 @@
 	font-weight: 300;
 	font-size: 80px;
 	letter-spacing: -1.5px;
-	background-color: #4CAF50;
+	background-color: #3F51B5;
 	color:#fff;
 }
 
-h5{
+.subheading,h5{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
-	font-size: 24;
-	letter-spacing: 0;
+	font-size: 30px;
+	letter-spacing: 0px;
 }
 
 h6{
@@ -45,15 +44,15 @@ h6{
 .button{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 500;	
-	font-size: 14;
-	letter-spacing: 1.25;
+	font-size: 14px;
+	letter-spacing: 1.25px;
 }
 
 .body2{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
-	font-size: 14;
-	letter-spacing: 0.25;
+	font-size: 15px;
+	letter-spacing: 0.25px;
 }
 
 .body3{
@@ -66,8 +65,8 @@ h6{
 .subtitle1{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
-	font-size: 16;
-	letter-spacing: 0.15;
+	font-size: 16px;
+	letter-spacing: 0.15px;
 }
 
 .subtitle2{
@@ -80,6 +79,17 @@ h6{
 .caption{
 	font-family: 'Roboto', sans-serif;
 	font-weight: 400; 	
-	font-size: 12;
-	letter-spacing: 0.4;
+	font-size: 12px;
+	letter-spacing: 0.4px;
+	color:#757575;
+}
+
+footer{
+	margin-top: 25px;
+	padding:20px; 
+	background-color: #3F51B5;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
+	font-size: 16px;
+	letter-spacing: 0.15px;
 }
